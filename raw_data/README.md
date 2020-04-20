@@ -2,6 +2,7 @@
 ## `apple_data` (Last Updated 4/18)
 
 `/apple_mobility_trends.csv`: Sorted by country and major cities. 
+
 Source: https://www.apple.com/covid19/mobility
 
 tldr: Uses routing requests to describe countries and major cities and their mobility trends through driving, walking, and transit. 
@@ -16,7 +17,9 @@ These Community Mobility Reports aim to provide insights into what has changed i
 
 
 `/mobility_report_US.csv`: Sorted by county.
+
 `/mobility_report_countries.csv`: Sorted by country and states.
+
 `/mobility_report_global.csv`: All data.
 
 Source: https://www.google.com/covid19/mobility and https://github.com/ActiveConclusion/COVID19_mobility
@@ -32,8 +35,11 @@ Data that is sent from users’ devices to the Maps service is associated with r
 
 
 `/archived_data/`: Probably won't need.
+
 `/csee_covid_19_data/`: Sorted by country, states, and cities.
+
 `/who_covid_19_situation_reports/`: Self explanatory, has time series data. (Updated 4/3)
+
 
 Source: https://github.com/CSSEGISandData/COVID-19
 
