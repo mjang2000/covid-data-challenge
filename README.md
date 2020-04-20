@@ -1,5 +1,5 @@
-# mobility-covid19
-An analysis of social distancing, mobility, and public policy in the United States. 
+# COVID-19 Analysis
+An analysis of social distancing, mobility, and public policy as related to COVID-19. 
 
 Used for [Columbia's COVID challenge](https://datascience.columbia.edu/dsis-center-health-analytics-launches-covid-19-data-challenge). 
 
