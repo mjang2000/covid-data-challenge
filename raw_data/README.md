@@ -44,3 +44,16 @@ These Community Mobility Reports aim to provide insights into what has changed i
 Source: https://github.com/CSSEGISandData/COVID-19
 
 This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
+
+## `nytimes_data` (Last Updated 4/19)
+
+`/us-counties.csv`: Daily number of cases and deaths by county (includes FIPS code)
+
+`/us-states.csv`: Daily number of cases and deaths by state (includes DC and territories)
+
+`/us.csv`: Daily number of cases and deaths nationwide
+
+
+Souce: https://github.com/nytimes/covid-19-data.git
+
+If you use this data, you must attribute it to “The New York Times” in any publication. If you would like a more expanded description of the data, you could say “Data from The New York Times, based on reports from state and local health agencies.”
