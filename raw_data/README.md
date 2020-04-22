@@ -61,7 +61,8 @@ If you use this data, you must attribute it to “The New York Times” in any p
 ## `population_data` (Last Updated 4/19)
 
 `/co-est2019-annres.xlsx`: Population Data from 2010 to 2019 sorted by county.
-
+'PEP_2018_PEPANNRES_with_ann.csv': Population Data from 2010 to 2018 sorted by city.
 Souce: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
+https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html
 
 Population Data from 2010 to 2019 sorted by county, as of July 1 for each year based on the 2010 census.
