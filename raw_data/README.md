@@ -57,3 +57,11 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 Souce: https://github.com/nytimes/covid-19-data.git
 
 If you use this data, you must attribute it to “The New York Times” in any publication. If you would like a more expanded description of the data, you could say “Data from The New York Times, based on reports from state and local health agencies.”
+
+## `population_data` (Last Updated 4/19)
+
+`/co-est2019-annres.xlsx`: Population Data from 2010 to 2019 sorted by county.
+
+Souce: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
+
+Population Data from 2010 to 2019 sorted by county, as of July 1 for each year based on the 2010 census.
