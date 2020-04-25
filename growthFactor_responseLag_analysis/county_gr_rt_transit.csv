@@ -1,0 +1,906 @@
+county,growth_rate,reaction_time
+"Ada County, Idaho",1.5041905554914325,28
+"Adams County, Colorado",1.445448878218924,26
+"Adams County, Illinois",1.3260485007304763,35
+"Aiken County, South Carolina",1.3647859413074805,35
+"Alachua County, Florida",1.3205773514521812,31
+"Alameda County, California",1.3625775437128211,25
+"Albany County, New York",1.3156543802713883,30
+"Albany County, Wyoming",1.1350491265810052,10
+"Albemarle County, Virginia",1.291378354658086,30
+"Allegan County, Michigan",1.3226991362700444,33
+"Allegany County, Maryland",1.40497842800276,31
+"Alleghany County, Virginia",1.1282386389154404,41
+"Allegheny County, Pennsylvania",1.446517757612575,30
+"Allen County, Indiana",1.4034452973803668,34
+"Allen County, Ohio",1.3693824111007817,36
+"Andrews County, Texas",1.3839949567328582,55
+"Angelina County, Texas",1.2721471717917134,28
+"Anne Arundel County, Maryland",1.5266661185708992,31
+"Anoka County, Minnesota",1.279801104926442,30
+"Arapahoe County, Colorado",1.4579553660045563,26
+"Arlington County, Virginia",1.3520029278110597,28
+"Ashtabula County, Ohio",1.2886394343110945,34
+"Atascosa County, Texas",1.174602258348054,34
+"Atlantic County, New Jersey",1.4757901042957045,30
+"Atoka County, Oklahoma",1.0,34
+"Augusta County, Virginia",1.302489365351716,38
+"Baker County, Florida",1.1942035210234678,41
+"Baldwin County, Alabama",1.3655932697175366,34
+"Baltimore County, Maryland",1.5602884204137906,55
+"Bannock County, Idaho",1.0583851365991979,28
+"Barnstable County, Massachusetts",1.4839709167699815,31
+"Bartholomew County, Indiana",1.4062659722136965,30
+"Bay County, Florida",1.3322840308718022,30
+"Beaufort County, South Carolina",1.3392636185966205,32
+"Beaver County, Pennsylvania",1.4292583177302491,31
+"Beckham County, Oklahoma",1.0459504303453644,36
+"Bedford County, Pennsylvania",1.1754882831485973,29
+"Bell County, Texas",1.3536852989958115,35
+"Belmont County, Ohio",1.2889750437944216,36
+"Benton County, Arkansas",1.2905919589756116,31
+"Benton County, Oregon",1.2094952327925164,29
+"Benton County, Tennessee",1.0441789480989703,35
+"Benton County, Washington",1.4202826413340872,39
+"Bergen County, New Jersey",1.611491472774119,30
+"Berkeley County, South Carolina",1.3850047298413488,55
+"Berkeley County, West Virginia",1.3879474444856548,34
+"Berks County, Pennsylvania",1.6177871969044069,55
+"Berkshire County, Massachusetts",1.332028215429214,34
+"Bernalillo County, New Mexico",1.36310271211391,33
+"Berrien County, Michigan",1.3288152943973568,34
+"Bexar County, Texas",1.2506582127292418,27
+"Bibb County, Georgia",1.4143715146031943,35
+"Big Horn County, Montana",1.2904162662569485,38
+"Black Hawk County, Iowa",1.3491587749148863,30
+"Blaine County, Idaho",1.421895251149955,32
+"Blair County, Pennsylvania",1.179127365146678,55
+"Blount County, Tennessee",1.32429949951306,28
+"Bond County, Illinois",1.081203518866191,55
+"Bonneville County, Idaho",1.2894879047562497,34
+"Boone County, Illinois",1.3660475230779794,29
+"Boone County, Indiana",1.3798824868977573,35
+"Boone County, Kentucky",1.4366311257504136,28
+"Boone County, Missouri",1.25087161103841,34
+"Boulder County, Colorado",1.3129049093516807,26
+"Bowie County, Texas",1.369555328199048,34
+"Box Elder County, Utah",1.2049674422647896,55
+"Boyd County, Kentucky",1.2777033848244248,55
+"Braxton County, West Virginia",1.0,34
+"Brazos County, Texas",1.319350109278448,29
+"Brevard County, Florida",1.3791795551862904,34
+"Bristol County, Massachusetts",1.5933038357110185,55
+"Broome County, New York",1.4013089371738148,35
+"Broomfield County, Colorado",1.36416881961338,27
+"Broward County, Florida",1.4989037503035243,34
+"Brown County, Wisconsin",1.406065181097197,30
+"Bryan County, Georgia",1.2437194737636907,34
+"Bryan County, Oklahoma",1.1293185979564442,35
+"Buchanan County, Missouri",1.2825156166288385,30
+"Buffalo County, Nebraska",1.319053345234135,28
+"Buncombe County, North Carolina",1.227107872409276,30
+"Burleigh County, North Dakota",1.1649196253794047,34
+"Burlington County, New Jersey",1.5207595669397136,30
+"Butler County, Alabama",1.2472103348459571,36
+"Butler County, Ohio",1.2592416321236184,55
+"Butler County, Pennsylvania",1.355347671695784,55
+"Butte County, California",1.1579347817808654,30
+"Cabarrus County, North Carolina",1.4100016475835055,28
+"Cabell County, West Virginia",1.4420578889489046,35
+"Cache County, Utah",1.2639777111241624,33
+"Caldwell County, Texas",1.2050093058832736,29
+"Calhoun County, Michigan",1.3733845235032232,34
+"Calhoun County, South Carolina",1.1286772236764886,34
+"Callahan County, Texas",1.0,35
+"Camden County, Georgia",1.3078611324726859,35
+"Camden County, New Jersey",1.5614131194640122,30
+"Cameron County, Texas",1.4557956571087367,34
+"Campbell County, Tennessee",1.1548681682057436,36
+"Campbell County, Wyoming",1.2234007974443402,25
+"Canadian County, Oklahoma",1.3159260658007017,41
+"Canyon County, Idaho",1.4085908556990472,34
+"Cape May County, New Jersey",1.493491741777724,35
+"Carbon County, Wyoming",1.0528142814577481,9
+"Caroline County, Virginia",1.368551710416567,34
+"Carroll County, Georgia",1.2480623064809646,29
+"Carroll County, Maryland",1.48470424864722,33
+"Carroll County, Virginia",1.1287249341397987,35
+"Carter County, Kentucky",1.2737456573028065,42
+"Carter County, Oklahoma",1.0,29
+"Cascade County, Montana",1.117322610710777,29
+"Cass County, Missouri",1.2226334770976448,9
+"Cass County, North Dakota",1.4485018196461696,34
+"Cass County, Texas",1.1489754376280334,27
+"Cayuga County, New York",1.3319516938417257,35
+"Cedar County, Iowa",1.2142998364192084,55
+"Centre County, Pennsylvania",1.3246195339733897,28
+"Cerro Gordo County, Iowa",1.167635144880821,34
+"Chambers County, Alabama",1.4889517060351067,35
+"Chambers County, Texas",1.301836576213641,28
+"Champaign County, Illinois",1.3448133380751566,29
+"Charles County, Maryland",1.485552472423523,30
+"Charleston County, South Carolina",1.4458773879644684,30
+"Charlotte County, Florida",1.3514493590707755,34
+"Chatham County, Georgia",1.4056724885834728,34
+"Chaves County, New Mexico",1.152508769902539,39
+"Cheatham County, Tennessee",1.1717899984948807,34
+"Chelan County, Washington",1.2503300920473515,39
+"Chemung County, New York",1.3163632558237885,41
+"Cherokee County, South Carolina",1.3198593397095835,34
+"Chester County, Pennsylvania",1.4450165036311395,29
+"Chester County, South Carolina",1.3124769695825869,42
+"Cheyenne County, Nebraska",1.2248306548411665,44
+"Chilton County, Alabama",1.2386730118862312,35
+"Chittenden County, Vermont",1.4172639201232025,25
+"Cibola County, New Mexico",1.3559200261970412,36
+"Clackamas County, Oregon",1.328659459451054,32
+"Clallam County, Washington",1.1405881629462793,35
+"Clarendon County, South Carolina",1.3947262026135423,41
+"Clark County, Arkansas",1.2080985431055502,36
+"Clark County, Illinois",1.1282868697231,34
+"Clark County, Missouri",1.0,42
+"Clark County, Nevada",1.512889583148027,31
+"Clark County, Ohio",1.2477110161765825,30
+"Clark County, Washington",1.3867772401572764,32
+"Clarke County, Georgia",1.2592191287469912,30
+"Clarke County, Iowa",1.096733084462152,29
+"Clay County, Indiana",1.3330202447213664,34
+"Clay County, Mississippi",1.2779998810034392,40
+"Clay County, Missouri",1.261459360499149,29
+"Clay County, Texas",1.0966247450383453,33
+"Clayton County, Georgia",1.418428548387033,31
+"Clearfield County, Pennsylvania",1.153378269947447,35
+"Cleburne County, Alabama",1.1690002607870096,29
+"Clinton County, Michigan",1.3916222590395235,30
+"Clinton County, New York",1.260501916919613,35
+"Clinton County, Ohio",1.2662027070720128,43
+"Clinton County, Pennsylvania",1.3313079375331733,34
+"Cobb County, Georgia",1.3838644094325898,30
+"Cochise County, Arizona",1.2416662220292987,36
+"Cocke County, Tennessee",1.1602425062319393,55
+"Coconino County, Arizona",1.3705961941109068,32
+"Codington County, South Dakota",1.2171900899085286,9
+"Coffey County, Kansas",1.252732419077966,34
+"Colfax County, New Mexico",1.3098723884601282,35
+"Colleton County, South Carolina",1.2608298099066997,36
+"Collier County, Florida",1.366042833993871,34
+"Collin County, Texas",1.3766175407211891,29
+"Colorado County, Texas",1.1695421339777363,34
+"Columbia County, Florida",1.2894742069000968,35
+"Columbia County, Georgia",1.3429792537043375,34
+"Columbia County, Pennsylvania",1.5441479293016858,35
+"Columbia County, Wisconsin",1.1681603199797954,34
+"Comal County, Texas",1.226811373157299,28
+"Conecuh County, Alabama",1.2511768522747293,35
+"Contra Costa County, California",1.3362057241490914,25
+"Converse County, Wyoming",1.2052757090250412,38
+"Conway County, Arkansas",1.0862505349484621,35
+"Cook County, Georgia",1.3150570031693327,42
+"Cook County, Illinois",1.348896172502343,29
+"Cooke County, Texas",1.0838445409623714,39
+"Cooper County, Missouri",1.1118526931763795,34
+"Cotton County, Oklahoma",1.1365988997051035,32
+"Coweta County, Georgia",1.331296058157978,29
+"Cowlitz County, Washington",1.196798101156613,34
+"Craig County, Oklahoma",1.203692231461062,55
+"Craighead County, Arkansas",1.303530555451631,31
+"Craven County, North Carolina",1.2498268680925342,41
+"Crawford County, Arkansas",1.0884054139518546,34
+"Crawford County, Indiana",1.2992984427599457,28
+"Crisp County, Georgia",1.396987995023024,55
+"Crittenden County, Arkansas",1.4265979409291039,35
+"Cullman County, Alabama",1.28190360136894,35
+"Cumberland County, Illinois",1.0317338679070707,41
+"Cumberland County, Maine",1.2889919899076658,31
+"Cumberland County, New Jersey",1.545509140498609,33
+"Cumberland County, North Carolina",1.3695214909695175,32
+"Cumberland County, Pennsylvania",1.2669848812823314,34
+"Cumberland County, Tennessee",1.3100625602320597,35
+"Curry County, New Mexico",1.195193916651236,34
+"Custer County, Oklahoma",1.1185863223167716,55
+"Cuyahoga County, Ohio",1.4186225358771747,29
+"Dakota County, Minnesota",1.2711204694807878,30
+"Dale County, Alabama",1.3767447135775606,41
+"Dallas County, Texas",1.4575522326405501,29
+"Dane County, Wisconsin",1.2456529435726942,34
+"Dauphin County, Pennsylvania",1.4825232480258441,28
+"Davidson County, North Carolina",1.418628859889091,35
+"Davidson County, Tennessee",1.4470809196067573,29
+"Davie County, North Carolina",1.2655147313478494,34
+"Davis County, Utah",1.3638659203841075,26
+"DeKalb County, Alabama",1.2910434312473602,35
+"DeKalb County, Georgia",1.4472394156991577,55
+"DeSoto County, Mississippi",1.3106124337532088,28
+"Decatur County, Indiana",1.2836055888882172,35
+"Delaware County, Indiana",1.3382825296863587,55
+"Delaware County, Ohio",1.3249903811015304,34
+"Delaware County, Oklahoma",1.4180016769734258,41
+"Delaware County, Pennsylvania",1.5509575888303953,31
+"Denton County, Texas",1.4342856270219255,29
+"Denver County, Colorado",1.4231932499138547,30
+"Des Moines County, Iowa",1.1904195770062798,25
+"Deschutes County, Oregon",1.2262415841423595,34
+"Dimmit County, Texas",1.0000000000000002,55
+"Dodge County, Nebraska",1.2081025609233123,46
+"Donley County, Texas",1.3543916069777349,-1
+"Dorchester County, South Carolina",1.3854100393298636,35
+"Douglas County, Colorado",1.3426110404999396,31
+"Douglas County, Georgia",1.3718524829608205,29
+"Douglas County, Kansas",1.2498543071029375,22
+"Douglas County, Minnesota",1.0,33
+"Douglas County, Nebraska",1.1551428403331332,29
+"Douglas County, Washington",1.2459927081193831,35
+"Doña Ana County, New Mexico",1.2315153623647384,35
+"DuPage County, Illinois",1.4326081959563595,30
+"Dubuque County, Iowa",1.2348718783968446,33
+"Dukes County, Massachusetts",1.2628161126553172,37
+"Dunn County, Wisconsin",1.1722249047304458,55
+"Duplin County, North Carolina",1.3359514136364734,29
+"Dutchess County, New York",1.5119133612442057,30
+"Duval County, Florida",1.462222989270234,34
+"Dyer County, Tennessee",1.2389074037477645,55
+"Eagle County, Colorado",1.3376089830854594,30
+"Eastland County, Texas",1.0169572546005858,35
+"Eau Claire County, Wisconsin",1.1906735998268192,35
+"Ector County, Texas",1.3226197402313948,42
+"Eddy County, New Mexico",1.1272860582916984,35
+"Effingham County, Illinois",1.1660324683035905,35
+"El Dorado County, California",1.228675847036518,28
+"El Paso County, Colorado",1.4620347564034237,27
+"El Paso County, Texas",1.4548549373157222,34
+"Elkhart County, Indiana",1.3878752045358969,55
+"Elko County, Nevada",1.1591577507155957,31
+"Elmore County, Idaho",1.228551160111119,28
+"Erie County, New York",1.4890559372143441,29
+"Erie County, Pennsylvania",1.2926361755650808,31
+"Escambia County, Florida",1.4816813781495668,29
+"Essex County, Massachusetts",1.6359135992550782,31
+"Essex County, New Jersey",1.6236339964179942,30
+"Etowah County, Alabama",1.394825831018369,30
+"Fairfax County, Virginia",1.4579652615953973,30
+"Fairfield County, Connecticut",1.6026243734450834,29
+"Fayette County, Kentucky",1.328549470493857,28
+"Fayette County, Ohio",1.2627501954018778,35
+"Fayette County, Tennessee",1.276678634482727,34
+"Fayette County, Texas",1.28750278601975,35
+"Finney County, Kansas",1.3665763901389931,43
+"Flathead County, Montana",1.2691410939611323,37
+"Florence County, South Carolina",1.380855940677898,35
+"Fond du Lac County, Wisconsin",1.1655452908466624,55
+"Ford County, Kansas",1.256081745573625,34
+"Forrest County, Mississippi",1.2986365119376828,55
+"Fort Bend County, Texas",1.3685929147607123,35
+"Franklin County, Georgia",1.1174647456034077,29
+"Franklin County, Illinois",1.1327426873321167,28
+"Franklin County, Kansas",1.18156986742402,35
+"Franklin County, Massachusetts",1.4266501527433784,55
+"Franklin County, Missouri",1.4097972468348912,34
+"Franklin County, Ohio",1.5078927666703417,30
+"Franklin County, Pennsylvania",1.3858556961713309,34
+"Franklin County, Texas",1.0,55
+"Franklin County, Washington",1.4355034358968772,29
+"Frederick County, Maryland",1.5930815579244855,55
+"Frederick County, Virginia",1.3673476916597136,34
+"Freeborn County, Minnesota",1.2932396353641415,34
+"Freestone County, Texas",1.6141509801607326,34
+"Fresno County, California",1.3920632089655194,29
+"Frio County, Texas",1.0,46
+"Fulton County, Georgia",1.453106802535933,29
+"Fulton County, Indiana",1.1197710673323416,35
+"Fulton County, Ohio",1.1781250632826497,55
+"Fulton County, Pennsylvania",1.096733084462152,29
+"Gadsden County, Florida",1.4538765987333473,34
+"Gallatin County, Kentucky",1.0000000000000002,12
+"Gallatin County, Montana",1.3712283328199855,34
+"Galveston County, Texas",1.4828898067020766,34
+"Garfield County, Colorado",1.2591622549719577,35
+"Garfield County, Oklahoma",1.1341215014644817,28
+"Garrett County, Maryland",1.0298342421504507,33
+"Garvin County, Oklahoma",1.1558922075232743,30
+"Genesee County, Michigan",1.5489698336012776,34
+"Genesee County, New York",1.412915114738294,28
+"Gibson County, Indiana",1.0303686090604796,33
+"Giles County, Tennessee",1.065690551051397,36
+"Glades County, Florida",1.0781965162426514,36
+"Gloucester County, New Jersey",1.5154437911198109,30
+"Glynn County, Georgia",1.2523597989201058,35
+"Grafton County, New Hampshire",1.1850997666149403,35
+"Grand County, Colorado",1.0595220468728088,19
+"Grand Forks County, North Dakota",1.2901938176231964,28
+"Grand Isle County, Vermont",1.1180773015462724,25
+"Grand Traverse County, Michigan",1.1977693691912525,35
+"Grant County, Indiana",1.3040276380328266,55
+"Grant County, Washington",1.2893817138414467,38
+"Grays Harbor County, Washington",1.1592789328322135,55
+"Greene County, Alabama",1.2844313632455546,36
+"Greene County, Missouri",1.2638547660875719,34
+"Greene County, Tennessee",1.2181501109729433,35
+"Greenville County, South Carolina",1.4157694529350024,29
+"Grundy County, Illinois",1.2914989859545722,38
+"Guadalupe County, New Mexico",1.0,37
+"Guadalupe County, Texas",1.2398096942955248,30
+"Guernsey County, Ohio",1.3678510523493808,34
+"Guilford County, North Carolina",1.33522644982878,29
+"Gwinnett County, Georgia",1.4818578549122727,29
+"Hall County, Georgia",1.4704873202231623,38
+"Hall County, Nebraska",1.692314740036206,28
+"Hall County, Texas",0.9999999999999999,28
+"Hamilton County, Florida",1.1415326108700483,35
+"Hamilton County, Nebraska",1.3230745090656688,28
+"Hamilton County, Ohio",1.4286564969896847,55
+"Hamilton County, Tennessee",1.3565265293448305,31
+"Hampden County, Massachusetts",1.6916791468108217,30
+"Hampshire County, Massachusetts",1.4496176126289644,55
+"Hampton County, South Carolina",1.418500457130088,35
+"Hancock County, Indiana",1.3868541386279085,55
+"Hancock County, Ohio",1.289014945929641,55
+"Hanover County, Virginia",1.2995341268262208,34
+"Haralson County, Georgia",1.2602934562793422,41
+"Hardin County, Kentucky",1.2511648408711789,34
+"Harford County, Maryland",1.3481590273886586,30
+"Harnett County, North Carolina",1.2133972800619712,36
+"Harris County, Texas",1.5238651801406908,34
+"Harrison County, Mississippi",1.265257452024142,28
+"Harrison County, Missouri",1.1879060201239278,34
+"Harrison County, West Virginia",1.2165847686801126,55
+"Hartford County, Connecticut",1.566591154710979,30
+"Hawaii County, Hawaii",1.2718727566005634,34
+"Hays County, Texas",1.3402766528096004,34
+"Henderson County, North Carolina",1.4165220202214044,16
+"Hendricks County, Indiana",1.423536193553671,36
+"Hennepin County, Minnesota",1.3373920293156973,30
+"Henrico County, Virginia",1.4970827772394375,31
+"Henry County, Indiana",1.3513794151663743,35
+"Henry County, Iowa",1.2926617901267146,35
+"Henry County, Ohio",1.18889164279851,36
+"Herkimer County, New York",1.2668358990246658,34
+"Hidalgo County, New Mexico",1.0,35
+"Hidalgo County, Texas",1.4349891070394272,35
+"Hill County, Texas",1.207224641699497,34
+"Hillsborough County, Florida",1.4347162260734718,34
+"Hillsborough County, New Hampshire",1.4403562665384242,31
+"Hinds County, Mississippi",1.3565250838020904,29
+"Honolulu County, Hawaii",1.3880419175346415,34
+"Hopkins County, Kentucky",1.468407028711453,36
+"Hopkins County, Texas",1.1000831900696513,34
+"Horry County, South Carolina",1.3029052285197475,33
+"Hot Spring County, Arkansas",1.1585264510475117,29
+"Howard County, Maryland",1.398825672125397,31
+"Howard County, Texas",1.0,29
+"Howell County, Missouri",1.1933243877102895,36
+"Hudson County, New Jersey",1.7045557422095359,30
+"Humboldt County, California",1.1933444165752654,32
+"Humboldt County, Nevada",1.3179798699260685,41
+"Huntington County, Indiana",1.1529500330412399,44
+"Imperial County, California",1.3142841392493845,27
+"Indian River County, Florida",1.2705418087785236,34
+"Ingham County, Michigan",1.4367917238598944,55
+"Ionia County, Michigan",1.2423958633135237,34
+"Iredell County, North Carolina",1.30569249937563,36
+"Iron County, Utah",1.214968257392896,34
+"Iroquois County, Illinois",1.2132612041681574,34
+"Island County, Washington",1.2741442387222768,31
+"Jackson County, Florida",1.1454079365869252,35
+"Jackson County, Indiana",1.416465195735757,55
+"Jackson County, Michigan",1.480433556437794,36
+"Jackson County, Mississippi",1.3946216852927527,34
+"Jackson County, Missouri",1.395795363696923,29
+"Jackson County, Ohio",1.1203978382726452,41
+"Jackson County, Oregon",1.2363845596507368,34
+"Jackson County, Texas",1.1244995126041757,35
+"Jackson County, West Virginia",1.2853329529164657,55
+"Jasper County, Missouri",1.2580805816655607,36
+"Jasper County, South Carolina",1.2025917108483557,35
+"Jefferson County, Alabama",1.327894358594921,29
+"Jefferson County, Colorado",1.4344019740235476,26
+"Jefferson County, Illinois",1.3647798752062088,35
+"Jefferson County, Kentucky",1.438936581825413,27
+"Jefferson County, Missouri",1.3551774385553015,34
+"Jefferson County, Oregon",1.0,35
+"Jefferson County, Pennsylvania",1.1210367653591344,28
+"Jefferson County, Tennessee",1.1767203505660597,34
+"Jefferson County, Texas",1.3609027150252955,34
+"Jefferson County, Washington",1.1948920455785004,34
+"Jefferson County, Wisconsin",1.2144980369600242,27
+"Jerome County, Idaho",1.3462601642798802,36
+"Jessamine County, Kentucky",1.2237100272776595,55
+"Johnson County, Indiana",1.4128626102629716,34
+"Johnson County, Iowa",1.2264763565382715,34
+"Johnson County, Kansas",1.3692852308398744,30
+"Jones County, Mississippi",1.3540535383726213,48
+"Josephine County, Oregon",1.221576031445041,36
+"Juab County, Utah",1.055005239517914,32
+"Juneau County, Wisconsin",1.1325703254589574,55
+"Kalamazoo County, Michigan",1.3374513225642377,30
+"Kanawha County, West Virginia",1.349832181911496,31
+"Kane County, Illinois",1.4476450081223284,29
+"Kankakee County, Illinois",1.4891821399891472,36
+"Karnes County, Texas",1.0543595560526398,29
+"Kauai County, Hawaii",1.177341392070813,34
+"Kaufman County, Texas",1.3464576494448166,29
+"Kay County, Oklahoma",1.2556802823809174,34
+"Kendall County, Texas",1.1123460845999273,35
+"Kennebec County, Maine",1.301488104655746,29
+"Kenosha County, Wisconsin",1.3594238748853964,55
+"Kent County, Delaware",1.4500932107519722,55
+"Kent County, Michigan",1.3678366448959989,30
+"Kent County, Rhode Island",1.4266771439834651,31
+"Kenton County, Kentucky",1.3541342037518442,31
+"Kern County, California",1.5395530942600681,35
+"King County, Washington",1.334190385040885,31
+"King George County, Virginia",1.2630061474896142,42
+"Kings County, California",1.2565075439089533,29
+"Kit Carson County, Colorado",1.2118089882018885,36
+"Kittitas County, Washington",1.1228765322077574,38
+"Klamath County, Oregon",1.2149693081594404,38
+"Kleberg County, Texas",1.1047000467344135,35
+"Knox County, Illinois",1.0958383335080708,55
+"Knox County, Tennessee",1.4122911786322716,30
+"Kootenai County, Idaho",1.2420471021251653,38
+"La Crosse County, Wisconsin",1.1607813160172686,34
+"La Paz County, Arizona",1.0900222247798745,34
+"La Plata County, Colorado",1.2718625466264595,32
+"La Salle County, Texas",0.9999999999999999,34
+"LaGrange County, Indiana",1.2476099953637863,34
+"LaPorte County, Indiana",1.3322582144429687,29
+"LaSalle County, Illinois",1.2467074275787886,34
+"Lackawanna County, Pennsylvania",1.4917323735388264,28
+"Lake County, California",1.1808550268666023,29
+"Lake County, Florida",1.3828259071835403,30
+"Lake County, Illinois",1.5228851809324189,29
+"Lake County, Ohio",1.3433449403209412,29
+"Lamar County, Mississippi",1.3485062350681953,34
+"Lamar County, Texas",1.1607413140329286,29
+"Lamoille County, Vermont",1.1275781374904796,19
+"Lancaster County, Nebraska",1.3592931472463605,28
+"Lancaster County, Pennsylvania",1.621158930072541,30
+"Lane County, Oregon",1.2527267894733924,31
+"Laramie County, Wyoming",1.2489093044275517,27
+"Larimer County, Colorado",1.3803350506197711,28
+"Lauderdale County, Mississippi",1.3719830153031198,29
+"Laurel County, Kentucky",1.2448389905836568,55
+"Laurens County, Georgia",1.2365526144057724,34
+"Lea County, New Mexico",1.0322426969337808,55
+"Leavenworth County, Kansas",1.3176860333725167,34
+"Lebanon County, Pennsylvania",1.5790999941237045,55
+"Lee County, Florida",1.4391442025005812,33
+"Lee County, Mississippi",1.195221352352795,35
+"Lehigh County, Pennsylvania",1.7071697754779647,30
+"Leon County, Florida",1.3779449212363342,29
+"Leon County, Texas",1.1170218759343618,29
+"Lewis County, Washington",1.2050646403974097,34
+"Lexington County, South Carolina",1.3832149012435997,29
+"Liberty County, Georgia",1.3019383713230401,41
+"Liberty County, Texas",1.3254217004946665,34
+"Licking County, Ohio",1.3889206777635268,29
+"Lincoln County, Colorado",1.0626817091265928,35
+"Lincoln County, Nebraska",1.183331707291112,55
+"Linn County, Iowa",1.4308747438041958,34
+"Linn County, Oregon",1.1356650053846067,34
+"Live Oak County, Texas",1.0389957227817528,34
+"Livingston County, New York",1.2714325830393978,33
+"Logan County, Oklahoma",1.1374892587135843,34
+"Lorain County, Ohio",1.330419703409193,28
+"Los Angeles County, California",1.3568642163888065,29
+"Loudon County, Tennessee",1.188783654368513,35
+"Loudoun County, Virginia",1.3910198021194555,34
+"Lowndes County, Alabama",1.3811779383891318,35
+"Lowndes County, Georgia",1.2667305914639868,35
+"Lowndes County, Mississippi",1.1567170073090494,28
+"Lubbock County, Texas",1.4426263523847067,28
+"Lucas County, Ohio",1.57527577335082,55
+"Luna County, New Mexico",1.1044658978235828,35
+"Luzerne County, Pennsylvania",1.718305072506212,28
+"Lycoming County, Pennsylvania",1.3215671724579878,55
+"Lyon County, Kansas",1.2772759763923067,35
+"Lyon County, Nevada",1.254607312369433,31
+"Macomb County, Michigan",1.5792635707715426,55
+"Macon County, Alabama",1.3592821380082876,36
+"Macon County, Illinois",1.5013550659799682,29
+"Macon County, Missouri",0.9909660014052645,35
+"Madison County, Alabama",1.3332925844053418,29
+"Madison County, Florida",1.246072111206227,35
+"Madison County, Illinois",1.4470986580835736,29
+"Madison County, Indiana",1.5559293314044103,35
+"Madison County, Kentucky",1.1975520335670755,36
+"Madison County, Mississippi",1.3086135110774253,29
+"Madison County, New York",1.3218771448412205,34
+"Madison County, Ohio",1.2671043145918277,41
+"Madison County, Tennessee",1.4510983693373989,34
+"Mahoning County, Ohio",1.4262405115606243,34
+"Malheur County, Oregon",1.1571725043265768,55
+"Manatee County, Florida",1.3350357071029042,34
+"Maricopa County, Arizona",1.2720336791411397,29
+"Marion County, Florida",1.3575219586753404,34
+"Marion County, Indiana",1.6311595241773715,34
+"Marion County, Missouri",0.9999999999999999,9
+"Marion County, Oregon",1.3890483070707256,34
+"Marshall County, Indiana",1.2585184139914407,35
+"Marshall County, Kentucky",1.3641533964115233,55
+"Marshall County, Tennessee",1.2607358950320773,36
+"Martin County, Florida",1.4186960154198427,34
+"Maui County, Hawaii",1.2825000102317872,34
+"Maverick County, Texas",1.2457600339962602,33
+"Mayes County, Oklahoma",1.2374553088010394,34
+"McClain County, Oklahoma",1.2670184126497708,34
+"McCracken County, Kentucky",1.2610673648784758,35
+"McCurtain County, Oklahoma",1.3004018340665129,55
+"McDuffie County, Georgia",1.4065678236197987,29
+"McHenry County, Illinois",1.399503399923951,29
+"McIntosh County, Oklahoma",1.0689608344708672,35
+"McKenzie County, North Dakota",1.2384158006630284,28
+"McKinley County, New Mexico",1.5501079718493074,39
+"McLean County, Illinois",1.28633810610728,34
+"McLennan County, Texas",1.1674408815406285,35
+"McMinn County, Tennessee",1.0802426873729496,42
+"McNairy County, Tennessee",1.2443703806027786,42
+"McPherson County, Kansas",1.2281569912684465,35
+"Mecklenburg County, North Carolina",1.4758731777322442,29
+"Mecklenburg County, Virginia",1.3799004737009737,34
+"Medina County, Ohio",1.3032857976183339,34
+"Medina County, Texas",1.2036195896211677,34
+"Mendocino County, California",1.0829911682574924,30
+"Merced County, California",1.3967892565932245,35
+"Mercer County, New Jersey",1.5398185426542064,30
+"Mercer County, West Virginia",1.1326317309648959,36
+"Merrimack County, New Hampshire",1.3320494600821144,29
+"Miami-Dade County, Florida",1.6085536045136684,33
+"Middlesex County, Connecticut",1.4664060706175794,30
+"Middlesex County, Massachusetts",1.485202663436299,29
+"Middlesex County, New Jersey",1.6162303168714673,29
+"Midland County, Texas",1.2930483632421779,31
+"Miller County, Arkansas",1.2910442563992814,34
+"Milwaukee County, Wisconsin",1.4208075965588984,30
+"Mineral County, Nevada",1.0,-1
+"Minidoka County, Idaho",1.2064852849401264,41
+"Minnehaha County, South Dakota",1.4821709606776405,30
+"Mississippi County, Arkansas",1.2243564811553684,55
+"Missoula County, Montana",1.1985801028276415,38
+"Mobile County, Alabama",1.5937727150990537,16
+"Mohave County, Arizona",1.3158656032387335,35
+"Monmouth County, New Jersey",1.5712056634960307,30
+"Monongalia County, West Virginia",1.3159995935804003,55
+"Monroe County, Florida",1.307511240649627,34
+"Monroe County, Georgia",1.1959705679158623,36
+"Monroe County, Indiana",1.3512377831966287,33
+"Monroe County, Michigan",1.4311317293371808,36
+"Monroe County, New York",1.4670832842578327,30
+"Monroe County, Pennsylvania",1.4790900779966405,29
+"Monroe County, Wisconsin",1.2329541433205171,29
+"Monterey County, California",1.2686434037255074,30
+"Montgomery County, Alabama",1.3921565087279943,29
+"Montgomery County, Indiana",1.2614590952664853,55
+"Montgomery County, Maryland",1.4604561156896465,30
+"Montgomery County, Mississippi",1.1730600517463254,35
+"Montgomery County, New York",1.2479665307634535,55
+"Montgomery County, Ohio",1.4424110594756199,30
+"Montgomery County, Pennsylvania",1.4521281190104167,30
+"Montgomery County, Tennessee",1.3701378914614635,29
+"Montgomery County, Texas",1.4385277588030925,29
+"Montgomery County, Virginia",1.5246033352900714,55
+"Moore County, Texas",1.569341897455408,28
+"Morgan County, Alabama",1.1941983949910042,35
+"Morgan County, Colorado",1.4072944283565691,34
+"Morgan County, Georgia",1.3045004819588477,30
+"Morgan County, Illinois",1.1877443599632156,34
+"Morris County, New Jersey",1.5746767603793717,55
+"Morrow County, Ohio",1.3403384387785577,35
+"Morrow County, Oregon",1.1674583563722805,55
+"Multnomah County, Oregon",1.4575426448223099,31
+"Muscogee County, Georgia",1.4900389945286387,32
+"Muskingum County, Ohio",1.1703637053190457,35
+"Muskogee County, Oklahoma",1.2509034403628456,35
+"Nacogdoches County, Texas",1.512009919411909,28
+"Napa County, California",1.1922264815457195,34
+"Nash County, North Carolina",1.3644206241512444,35
+"Nassau County, New York",1.6331314025002268,30
+"Natrona County, Wyoming",1.2694052274706875,26
+"Navajo County, Arizona",1.4284585124064633,36
+"Neosho County, Kansas",1.0500474971850016,44
+"Nevada County, Arkansas",1.0,41
+"New Castle County, Delaware",1.44208853468259,29
+"New Hanover County, North Carolina",1.298389897103251,31
+"New Haven County, Connecticut",1.6360159176092408,30
+"New London County, Connecticut",1.4786279363972163,28
+"New Madrid County, Missouri",1.2929678115942633,36
+"Newberry County, South Carolina",1.268615008331591,34
+"Newton County, Missouri",1.1118266527575908,36
+"Nez Perce County, Idaho",1.2001670742250103,38
+"Niagara County, New York",1.3710318051741452,30
+"Noble County, Ohio",1.2613087486493082,45
+"Noble County, Oklahoma",1.1028510323334064,41
+"Nobles County, Minnesota",2.03414268406962,28
+"Norfolk County, Massachusetts",1.4771437046255418,31
+"Northampton County, Pennsylvania",1.6187374899930296,31
+"Northumberland County, Pennsylvania",1.5077830929427398,9
+"Nowata County, Oklahoma",1.14781620094977,34
+"Nueces County, Texas",1.2561183916166572,34
+"Nye County, Nevada",1.2727349729735096,43
+"Oakland County, Michigan",1.5955294183652162,55
+"Ocean County, New Jersey",1.6348245729658448,30
+"Ohio County, Kentucky",1.2308205982964686,29
+"Ohio County, West Virginia",1.1999816386098807,55
+"Okaloosa County, Florida",1.3162815723339367,34
+"Okeechobee County, Florida",1.1427985517124006,28
+"Okfuskee County, Oklahoma",1.0,33
+"Oklahoma County, Oklahoma",1.4223118637292074,28
+"Okmulgee County, Oklahoma",1.2063067634565807,42
+"Oldham County, Texas",1.074565338727686,36
+"Olmsted County, Minnesota",1.3385524538844618,30
+"Oneida County, New York",1.4216862920786113,29
+"Onondaga County, New York",1.416831038708476,30
+"Onslow County, North Carolina",1.2533187502093106,31
+"Ontario County, New York",1.2914167245348533,34
+"Orange County, California",1.254084422188363,29
+"Orange County, Florida",1.5056406031210585,33
+"Orange County, New York",1.5890761396589252,29
+"Orange County, North Carolina",1.3459917100858105,29
+"Orange County, Texas",1.4342224976474114,34
+"Orange County, Vermont",1.065687553024124,29
+"Osceola County, Florida",1.4010880512720112,29
+"Ottawa County, Michigan",1.3166791782718645,55
+"Outagamie County, Wisconsin",1.265026508921701,34
+"Palm Beach County, Florida",1.49913763675837,30
+"Palo Pinto County, Texas",1.2444419979872026,43
+"Panola County, Mississippi",1.2536385789353042,29
+"Panola County, Texas",1.414980341978672,28
+"Parker County, Texas",1.2238281413295642,29
+"Pasco County, Florida",1.3736313909803002,35
+"Passaic County, New Jersey",1.7172451830682265,30
+"Pearl River County, Mississippi",1.2942312196252312,34
+"Pecos County, Texas",1.2842629764460594,35
+"Pemiscot County, Missouri",1.1959789532943375,34
+"Pennington County, South Dakota",1.155419479100393,38
+"Penobscot County, Maine",1.2672389802639616,30
+"Peoria County, Illinois",1.217165528141971,30
+"Phelps County, Missouri",1.0,41
+"Philadelphia County, Pennsylvania",1.7107658870048035,30
+"Pickaway County, Ohio",1.5580534426866512,55
+"Pierce County, Washington",1.358432760927706,55
+"Pike County, Mississippi",1.2918200893756784,34
+"Pima County, Arizona",1.5023159799040995,28
+"Pinal County, Arizona",1.2911428309210518,34
+"Pinellas County, Florida",1.4288416831708723,34
+"Pitkin County, Colorado",1.119859319141212,28
+"Pittsburg County, Oklahoma",1.2370003880361489,36
+"Placer County, California",1.238385355413793,32
+"Platte County, Missouri",1.2017442843271549,34
+"Platte County, Nebraska",1.1663232642608625,27
+"Plymouth County, Massachusetts",1.5939424957528328,55
+"Polk County, Iowa",1.3908148415896735,34
+"Polk County, Texas",1.2069602968451474,35
+"Pope County, Arkansas",1.2994503799143848,33
+"Portage County, Ohio",1.4143331327638713,35
+"Porter County, Indiana",1.4346907843397727,34
+"Pottawattamie County, Iowa",1.1619383033510609,28
+"Potter County, Texas",1.4417551888510594,35
+"Poweshiek County, Iowa",1.0815489022030513,34
+"Preble County, Ohio",1.3921774943310923,55
+"Prince George County, Virginia",1.2736320293912136,29
+"Prince George's County, Maryland",1.5321939599559617,30
+"Prince William County, Virginia",1.443276129180451,31
+"Providence County, Rhode Island",1.4958190031965761,31
+"Prowers County, Colorado",1.0,35
+"Pueblo County, Colorado",1.3284774148260516,34
+"Pulaski County, Arkansas",1.2876348366102515,28
+"Putnam County, New York",1.444793840382174,30
+"Putnam County, Tennessee",1.2831795066370288,30
+"Putnam County, West Virginia",1.2005546392183322,33
+"Quay County, New Mexico",1.0809080693430442,36
+"Raleigh County, West Virginia",1.0971182234868575,35
+"Ralls County, Missouri",1.0,24
+"Ramsey County, Minnesota",1.3044074169704967,30
+"Rankin County, Mississippi",1.2620054161917837,35
+"Reno County, Kansas",1.1657486819900116,37
+"Rensselaer County, New York",1.2519200341351084,29
+"Rice County, Minnesota",1.0937257996363796,35
+"Richland County, Ohio",1.3258904056827963,34
+"Richland County, South Carolina",1.3923392107894474,30
+"Richmond County, Georgia",1.3708605012971888,29
+"Riverside County, California",1.5041096787749864,28
+"Roberts County, South Dakota",1.1020542857662035,16
+"Robertson County, Texas",1.0239825973058767,29
+"Robeson County, North Carolina",1.19736252807448,35
+"Rock County, Wisconsin",1.3035113871573198,34
+"Rock Island County, Illinois",1.510186276632597,34
+"Rockbridge County, Virginia",1.0854495500757284,35
+"Rockingham County, New Hampshire",1.3747873537909496,34
+"Rockland County, New York",1.6401108253604555,30
+"Rockwall County, Texas",1.2653289855490595,34
+"Ross County, Ohio",1.387093698247214,55
+"Routt County, Colorado",1.2602451880705554,18
+"Rutherford County, Tennessee",1.4698280708009606,29
+"Rutland County, Vermont",1.2711159847621798,29
+"Sacramento County, California",1.3347891338519555,32
+"Saginaw County, Michigan",1.5187983737972799,35
+"Saline County, Arkansas",1.2943472716783506,42
+"Saline County, Kansas",1.2862331384636745,35
+"Salt Lake County, Utah",1.4445875204617629,28
+"San Bernardino County, California",1.5498493690235964,28
+"San Diego County, California",1.372565071778737,31
+"San Francisco County, California",1.2541940943492387,25
+"San Joaquin County, California",1.3326757230289845,29
+"San Juan County, New Mexico",1.4264083135238643,55
+"San Juan County, Washington",1.2028358519312454,39
+"San Luis Obispo County, California",1.2462026821402277,32
+"San Mateo County, California",1.3730044777249266,28
+"San Patricio County, Texas",1.2069652039843264,34
+"Sandoval County, New Mexico",1.4281626638931193,33
+"Sandusky County, Ohio",1.2215700046820865,34
+"Sangamon County, Illinois",1.2463633083315242,29
+"Santa Barbara County, California",1.4133341904804988,28
+"Santa Clara County, California",1.2852860432233375,25
+"Santa Cruz County, Arizona",1.1894442970630899,38
+"Santa Cruz County, California",1.2838835827583746,30
+"Santa Fe County, New Mexico",1.256029738432235,34
+"Sarasota County, Florida",1.3731375307855558,30
+"Saratoga County, New York",1.3186374284838758,28
+"Sarpy County, Nebraska",1.2666407328995615,45
+"Sauk County, Wisconsin",1.2166203676405087,36
+"Schenectady County, New York",1.3104042882182847,30
+"Schuylkill County, Pennsylvania",1.4581080882160649,34
+"Scott County, Iowa",1.4699950562918063,29
+"Scott County, Kentucky",1.291629028721078,36
+"Scott County, Mississippi",1.395828311276232,35
+"Scott County, Missouri",1.306368710646515,29
+"Sebastian County, Arkansas",1.1735579365638544,21
+"Sedgwick County, Kansas",1.4576591004156623,34
+"Seminole County, Florida",1.393947226633886,33
+"Seminole County, Oklahoma",1.2335504743798162,36
+"Seneca County, New York",1.254606048086401,34
+"Sequoyah County, Oklahoma",1.212207089601104,35
+"Sevier County, Utah",1.8156273514984576,35
+"Seward County, Kansas",1.613876010780911,42
+"Shasta County, California",1.2201382864632246,32
+"Sheboygan County, Wisconsin",1.18807277154158,55
+"Shelby County, Indiana",1.4246883110126112,28
+"Shelby County, Ohio",1.2996852764947104,36
+"Shelby County, Tennessee",1.5572601665647776,30
+"Shenandoah County, Virginia",1.2350437778597134,55
+"Sherman County, Oregon",1.0,55
+"Sherman County, Texas",1.7179155651496796,35
+"Silver Bow County, Montana",1.1580295212445901,42
+"Simpson County, Kentucky",1.2765011390989591,36
+"Simpson County, Mississippi",1.1975035482217755,34
+"Siskiyou County, California",1.0552163698211892,20
+"Smith County, Texas",1.2732699674038115,28
+"Smyth County, Virginia",1.2969059737848014,50
+"Snohomish County, Washington",1.2771498623835473,38
+"Solano County, California",1.1617434186642908,31
+"Somerset County, New Jersey",1.4844204428939185,55
+"Somerset County, Pennsylvania",1.2274116093409508,28
+"Sonoma County, California",1.2695875386869353,31
+"Spartanburg County, South Carolina",1.4092845694340632,29
+"Spokane County, Washington",1.2675871246913588,31
+"St. Charles County, Missouri",1.5219688265763986,35
+"St. Clair County, Alabama",1.2991327548765959,29
+"St. Clair County, Illinois",1.424058241818461,28
+"St. Clair County, Michigan",1.4106962639488274,35
+"St. Francis County, Arkansas",1.5734853510047098,36
+"St. Johns County, Florida",1.372315797310577,34
+"St. Joseph County, Indiana",1.4332170310361059,34
+"St. Louis County, Minnesota",1.3006191762738415,34
+"St. Louis County, Missouri",1.5974850325316097,29
+"St. Lucie County, Florida",1.4059341361947935,34
+"Stark County, Ohio",1.3639296301992212,55
+"Ste. Genevieve County, Missouri",1.1014934447357068,29
+"Stearns County, Minnesota",1.0729313131028464,9
+"Steuben County, Indiana",1.3125211762969968,34
+"Steuben County, New York",1.3876634119744717,35
+"Stillwater County, Montana",1.0,34
+"Story County, Iowa",1.1912289846581017,32
+"Strafford County, New Hampshire",1.30022085149437,29
+"Suffolk County, Massachusetts",1.3557866619175798,30
+"Suffolk County, New York",1.6876154556230025,30
+"Sullivan County, Tennessee",1.2767477694676235,31
+"Summit County, Colorado",1.2677749935398226,29
+"Summit County, Ohio",1.3722231816385408,55
+"Summit County, Utah",1.2683069750441256,27
+"Sumter County, Florida",1.3272787981768737,36
+"Sumter County, South Carolina",1.4020033281010658,42
+"Surry County, North Carolina",1.2643648314217266,30
+"Susquehanna County, Pennsylvania",1.4902483590566322,27
+"Sussex County, Virginia",1.2578869733422653,35
+"Sutter County, California",1.2281562751271808,34
+"Suwannee County, Florida",1.548225157447794,35
+"Sweetwater County, Wyoming",1.2051548477249414,9
+"Talladega County, Alabama",1.3181375983419696,30
+"Tarrant County, Texas",1.48726984110429,32
+"Tate County, Mississippi",1.2330585012048902,32
+"Taylor County, Texas",1.4246931062599544,29
+"Tehama County, California",1.0,35
+"Teton County, Wyoming",1.3163562053529978,33
+"Texas County, Oklahoma",1.2504119000209155,41
+"Thurston County, Washington",1.2651089385376328,34
+"Tift County, Georgia",1.3335321498303796,35
+"Tippecanoe County, Indiana",1.29749680949535,55
+"Tolland County, Connecticut",1.3281286139025308,34
+"Tompkins County, New York",1.324349230638755,30
+"Tooele County, Utah",1.2670589332145292,27
+"Torrance County, New Mexico",1.1853202271495076,41
+"Travis County, Texas",1.4305406996538503,30
+"Troup County, Georgia",1.3101246162670641,41
+"Tulsa County, Oklahoma",1.4226573614908677,35
+"Turner County, Georgia",1.375761062857357,42
+"Tuscaloosa County, Alabama",1.3238876055539608,35
+"Uinta County, Wyoming",1.1645609197630005,9
+"Umatilla County, Oregon",1.1559889355054662,35
+"Union County, New Jersey",1.7283382634694935,30
+"Union County, Oregon",1.1036114406760398,35
+"Utah County, Utah",1.4871909870224471,55
+"Valencia County, New Mexico",1.2964504025927701,34
+"Van Zandt County, Texas",1.2012251712412898,35
+"Ventura County, California",1.362924929557202,28
+"Vermilion County, Illinois",1.1872946593723404,34
+"Vernon County, Missouri",1.1646840188934406,34
+"Victoria County, Texas",1.428033809103672,34
+"Vigo County, Indiana",1.3172481420698117,37
+"Wake County, North Carolina",1.3673247915043354,30
+"Walker County, Alabama",1.3404092909156602,34
+"Walker County, Texas",1.3655633500978102,34
+"Walla Walla County, Washington",1.1767281870666684,39
+"Waller County, Texas",1.2433607241314641,34
+"Walton County, Florida",1.1821237176259043,35
+"Ward County, North Dakota",1.1899849948418115,28
+"Warren County, Missouri",1.21908594555657,35
+"Warren County, New Jersey",1.4843842572735484,34
+"Warren County, New York",1.368054720829524,39
+"Warren County, Ohio",1.3130324853208448,34
+"Washington County, Arkansas",1.2563795342237123,27
+"Washington County, Minnesota",1.3119989380809367,34
+"Washington County, Oregon",1.3149355952027193,31
+"Washington County, Pennsylvania",1.3032516245340025,55
+"Washington County, Rhode Island",1.3490406418142513,30
+"Washington County, Tennessee",1.250677127384407,55
+"Washington County, Vermont",1.2448764820413278,47
+"Washington County, Virginia",1.3925381805333579,55
+"Washington County, Wisconsin",1.2422547611264065,41
+"Washoe County, Nevada",1.405016223902989,31
+"Washtenaw County, Michigan",1.4474574147091497,30
+"Waukesha County, Wisconsin",1.3566973519431373,55
+"Wayne County, Indiana",1.2836490834898924,41
+"Wayne County, Michigan",1.7053584316985506,31
+"Wayne County, Ohio",1.384901433039422,15
+"Webb County, Texas",1.4850595717158732,35
+"Weber County, Utah",1.3255055189122031,30
+"Weld County, Colorado",1.4746475632520302,34
+"Westchester County, New York",1.461057926523488,30
+"Westmoreland County, Pennsylvania",1.4024118504238594,30
+"Wharton County, Texas",1.2671040660629995,34
+"Whatcom County, Washington",1.385960339547589,34
+"White County, Arkansas",1.1890200947674148,55
+"White County, Indiana",1.11504774011591,35
+"White Pine County, Nevada",1.2613087486493082,41
+"Wichita County, Texas",1.2724295379747141,35
+"Wicomico County, Maryland",1.3403149220179105,34
+"Wilbarger County, Texas",1.0,28
+"Will County, Illinois",1.55914564975112,29
+"Williams County, North Dakota",1.1234366432168392,31
+"Williams County, Ohio",1.2573034242528944,55
+"Williamson County, Illinois",1.2041759194715447,55
+"Williamson County, Tennessee",1.3310245376778096,34
+"Williamson County, Texas",1.2618962865275996,35
+"Wilson County, Tennessee",1.3910320223604795,30
+"Windham County, Connecticut",1.426010875764782,30
+"Windsor County, Vermont",1.1556055059998482,27
+"Winkler County, Texas",1.2622356047944814,55
+"Winnebago County, Illinois",1.3847189590509683,34
+"Winnebago County, Wisconsin",1.198612583588945,55
+"Winona County, Minnesota",1.304151017367475,40
+"Wise County, Texas",1.166993600861391,29
+"Wood County, Ohio",1.3347774214087267,34
+"Woodbury County, Iowa",1.2502406282266436,28
+"Worcester County, Massachusetts",1.595433011690061,34
+"Wyandot County, Ohio",1.2891049276527868,55
+"Wyandotte County, Kansas",1.4422487994093682,29
+"Wythe County, Virginia",1.2186778509608334,35
+"Yakima County, Washington",1.4511256832509263,35
+"Yavapai County, Arizona",1.3490392401887452,32
+"Yellowstone County, Montana",1.2624798184558779,32
+"Yolo County, California",1.2948861943512096,30
+"York County, Maine",1.3456584237842497,34
+"York County, Nebraska",1.213523589728585,9
+"York County, Pennsylvania",1.4421428651507562,55
+"York County, South Carolina",1.395919971893161,29
+"Yuba County, California",1.175614953910503,33
+"Yuma County, Arizona",1.216401547883283,34
