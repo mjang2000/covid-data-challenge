@@ -66,3 +66,19 @@ Souce: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counti
 https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html
 
 Population Data from 2010 to 2019 sorted by county, as of July 1 for each year based on the 2010 census.
+
+To Be documented: 
+- 
+## `kff_data` (Last Updated 4/23)
+
+## `turnstile_data` (Last Updated 4/19)
+
+## `zipcode_data` (Last Updated 4/23)
+
+## `USDA_data` (Last Updated 4/23)
+
+
+
+
+
+
