@@ -1,6 +1,19 @@
 # COVID-19 Analysis
-An analysis of social distancing, mobility, and public policy as related to COVID-19. 
+An analysis of social distancing, mobility, and economic data as related to COVID-19. 
 
-Used for [Columbia's COVID challenge](https://datascience.columbia.edu/dsis-center-health-analytics-launches-covid-19-data-challenge). 
+Placed first in [Columbia's COVID challenge](https://datascience.columbia.edu/dsis-center-health-analytics-launches-covid-19-data-challenge). Submission found below. 
 
-Editable Google Sheet of resources and datasets can be found [here](https://docs.google.com/spreadsheets/d/1n6btuv7YbH9Fr69Ez4zLpKuD85pbm2lfwPyU3st1n90/edit?usp=sharing) (use LionMail email). 
+![Slide1](/slides/Final Submission_ COVID-19 (1).png)
+
+![Slide2](/slides/Final Submission_ COVID-19 (2).png)
+
+![Slide3](/slides/Final Submission_ COVID-19 (3).png)
+
+![Slide4](/slides/Final Submission_ COVID-19 (4).png)
+
+![Slide5](/slides/Final Submission_ COVID-19 (5).png)
+
+![Slide6](/slides/Final Submission_ COVID-19 (6).png)
+
+
+
